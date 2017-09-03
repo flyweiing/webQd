@@ -681,9 +681,9 @@ transform:rotate(9deg) scale(0.85,0.90) translate(0px,-30px) skew(-9deg,0deg);//
 ```
 
 - 请解释一下CSS3的Flexbox（弹性盒布局模型）,以及适用场景？
-	Flexbox可以简单快速的创建一个具有弹性功能的布局，当在一个小屏幕上显示的时候，Flexbox可以让元素在容器（伸缩容器）中进行自由扩展和收缩，从	而容易调整整个布局。它的目的是使用常见的布局模式，比如说三列布局，可以非常简单的实现。著作权归作者所有。
-     商业转载请联系作者获得授权,非商业转载请注明出处。
-     原文: http://www.w3cplus.com/css3/css3-flexbox-layout.html © w3cplus.com
+	Flexbox可以简单快速的创建一个具有弹性功能的布局，当在一个小屏幕上显示的时候，Flexbox可以让元素在容器（伸缩容器）中进行自由扩
+  展和收缩，从	而容易调整整个布局。它的目的是使用常见的布局模式，比如说三列布局，可以非常简单的实现。
+  原文: http://www.w3cplus.com/css3/css3-flexbox-layout.html © w3cplus.com
 
 - 用纯CSS创建一个三角形的原理是什么？
 
